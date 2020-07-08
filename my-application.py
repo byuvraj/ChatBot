@@ -72,4 +72,4 @@ async def on_message(message):
     if message.author == client.user:
         return
     
-client.run('NzI1NjIwMDU5ODAzNzQ2MzQ3.XwLUyA.fq_GEwjBJNURpzXQ7JdSa-CqTL8')
+client.run('YOURTOKEN')
